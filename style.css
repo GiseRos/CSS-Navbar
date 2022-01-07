@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Satisfy&display=swap');
+
+body{
+    font-family: 'Satisfy', cursive;
+    background-image:url("https://fondosmil.com/fondo/12025.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+}
+
+ul{
+    font-size:xx-large;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0em;
+}
+
+li{
+    padding: 0.5em;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    color: #6ddccf;
+    background-color: white;
+}
+
+img{
+    border-radius: 10px;
+    margin: 0.5em;
+}
+
+h2{
+    font-size: 3em;
+    font-weight: 200;
+    margin: 0em;
+    text-decoration-line: underline;
+}
+
+section{
+    background-color: #ffefa1;
+    margin: 2em;
+    padding: 1em;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+p{
+    font-family: 'Courgette';
+    font-style: normal;
+}
